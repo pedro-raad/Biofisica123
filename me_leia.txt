@@ -1,0 +1,1 @@
+Aqui está o codigo em python para a realização do trabalho de biofísica, foi utilizado uma regressão linear para obter a padronização dos dados obtidos através do experimento feito no laboratório
